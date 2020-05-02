@@ -1,4 +1,4 @@
-# valorant_stats
+# ValorantStats
 
 App that contains personal valorant stats
 
